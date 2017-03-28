@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C5C7D65C-C967-4766-B93F-770CD9AE8500}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Glide.OkHttp/Additions/OkHttpStreamFetcher.cs">
+    <Files>
+      <File FileName="Glide.OkHttp/Additions/OkHttpStreamFetcher.cs" Line="3" Column="3" />
+      <File FileName="Glide.OkHttp/Transforms/Metadata.xml" Line="11" Column="12" />
+      <File FileName="Glide.OkHttp/Additions/AboutAdditions.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Glide.OkHttp PreferredExecutionTarget="Android.1015fa23c9e53305" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

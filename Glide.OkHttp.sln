@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glide.OkHttp", "Glide.OkHttp\Glide.OkHttp.csproj", "{C5C7D65C-C967-4766-B93F-770CD9AE8500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C7D65C-C967-4766-B93F-770CD9AE8500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C7D65C-C967-4766-B93F-770CD9AE8500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C7D65C-C967-4766-B93F-770CD9AE8500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C7D65C-C967-4766-B93F-770CD9AE8500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
